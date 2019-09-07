@@ -2,3 +2,19 @@ Site Title:	ecommerce
 Username:	malav
 Password:	uN7k4$#k)N3w)6twbw
 Email:		jackjonesshah@gmail.com
+
+
+// 000webhost
+
+Email:  kipekos@mail-search.com
+Password:   NoPassword1234
+
+//Website Credi.
+
+Website Name:   ecommerce-demo-md
+Password:       fJODyjiZ$&Fpf2465q^m
+
+//Wordpress Credi.
+
+Admin UserName:     malav
+Admin Password:     NoPassword1234
